@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<char>::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<double>::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<float>::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects VS\СИ++\lr_7\LR_7\LR_7\Header1.h(420): warning C4715: List<Casino>::operator[]: значение возвращается не при всех путях выполнения
+  LR_7.vcxproj -> D:\Projects VS\СИ++\lr_7\LR_7\Debug\LR_7.exe
